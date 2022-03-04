@@ -1,0 +1,148 @@
+HTML:
+
+
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title><u>Huszlik Kada projekt munkája</u></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://codepen.io/P1N2O/pen/xxbjYqx.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<div id="d4"> 
+    <i><u><h1 class="text-light">Huszlik Kada weboldala</h1></i></u>
+</div>
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title><u>Huszlik Kada projekt munkája</u></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://codepen.io/P1N2O/pen/xxbjYqx.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<div id="d4"> 
+    <i><u><h1 class="text-light">Huszlik Kada weboldala</h1></i></u>
+</div>
+<a id="eleje"></a>
+<div class="btn-group mt-2 mb-4" role="group" aria-label="actionButtons">
+    </div>
+    <div id="d1">
+        <h1><u>Hamburger</u></h1>
+    </div>
+    <div id="d2">
+        <h2>Története</div>
+            <p>
+<li>Eredete: Az orosz nép körében a középkorban a tatárok terjesztették el a nyers, felvagdalt, fűszerezett hús
+    <br>
+    <li> Alapanyag: Húspogácsa, zsemle, zöldésgek
+        <br>
+        <li>Nemzet,ország: Oroszország
+        
+            Az orosz nép körében a középkorban a tatárok terjesztették el a nyers, felvagdalt, fűszerezett hús (ma tatárbifsztek) fogyasztását, amely később a német kereskedővárosokba is eljutott, majd egész Európában szétterjedt. Az alapjának másik feléül szolgáló szendvicset John Montagu, Sandwich grófja találta fel, aki kenyerek közé tett húst. Ennek speciális változata lett népszerű Németországban és Ausztriában, ahol zsemléket használtak erre a célra. A 19. században aztán a nagy kivándorlási hullámmal került az Amerikai Egyesült Államokba az étel. Mivel Hamburg volt a legforgalmasabb kikötő, ahonnan a kivándorlók útnak indultak, ennek alapján nevezték el. New York városában már a század közepe után elkezdték felszolgálni hamburg steaknek nevezett ételt, vagyis a szintén Hamburgból érkező darált húst, amit sóztak, füstöltek és hagymával, valamint kenyérrel szolgáltak fel.[1] A marhatenyésztés folyamatos növekedése miatt a hús ára egyre csökkent, és a századfordulóra széles rétegek számára elérhetővé vált.
+
+Boor-Burger avagy a paraszt hamburger. A 19.sz. nagy kivándorlási hulláma Hamburgból indult, s ez volt a legforgalmasabb kikötő, ahonnan a kivándorlók elindultak. Hiába a marhatenyésztés folyamatos növekedése, nem mindenhol csökkent annak ára. Voltak falvak, ahol a visszatérő vándorok szerettek volna hasonló finomságokat fogyasztani, de csakis a sertéshús volt elérhető. Emiatt találták ki, hogy a sertés legjavát teszik a zsemlébe. Ennek az ünnepi változata a Paraszt burger (Boor-Burger), ami nem volt más, mint a földszinten elhelyezkedő salátaágyra fektetett, pirított paprikakarikákon nyugvó 20-25 dkg-os lapított, sózott, borsozott sertéspogácsa ráolvasztott fűszeres sajttal, majonézzel. Majd az első emeleten jégsaláta(vagy egyéb más saláta) és füstölt szalonnaszeleteken és pirított hagymakarikákon pihenő, akkoriban vaslapon (ma grillen) megpirított, főtt sertésnyelvből állt. Öntete a már felhasznált majonéz és a más sertés sütésekből visszamaradt, un.: kvintesszencia keveréke volt kevés paprikával, borssal, ami akkoriban kissé csípős ízt eredményezhetett.[2]
+
+A vásárok, ünnepségek közkedvelt étele lett, azonban csak egy helyben állva lehetett fogyasztani, míg a vendégek szívesebben használták volna az időt nézelődésre. Ezt felismerte az egyik árus is (akinek a neve máig nem tisztázott), aki lapítani kezdte a húsgolyókat, és zsemlébe rakta őket. Az új étel népszerűsége különösen a nagy gazdasági világválság idején növekedett meg, mivel csupán öt centbe került. A harmincas években jelent meg rá a hamburger steak elnevezés. Ekkorra tehető a később világméretűvé vált üzletlánc, a McDonald’s megalapítása. Ők kezdetben hot dogokat árultak, ám hamar felismerték, hogy bevételük legnagyobb része a hamburgerekből származik, így végül 1955-ben megnyitották éttermüket Chicagóban.[3]
+
+A „burger” változat később általánosabb jelentést nyert és már nem kizárólag marhahús-pogácsával készített szendvicsekre használják, például a fish burger, turkey burger, veggie burger halas, pulykahúsból készült, ill. vegetáriánus szendvicset jelent. A burger változat, előfordul cégnevekben (például Burger King) és szóösszetételekben is (például Cheeseburger, utalással a sajtra).
+        </p>
+    </div>
+
+    <img src="Hamburger.jpg"  width="500" sizes="500" title="Hamburger">
+
+   <img src="Hamburger 2.jfif"  width="500" sizes="500" title="Hamburger">
+
+   <img src="Sajtburger.jfif"  width="800" sizes="500" title="Sajtburger">
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSS:
+
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	-webkit-animation: gradient 15s ease infinite;
+	        animation: gradient 15s ease infinite;
+}
+
+@-webkit-keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+  #d1{
+	background-color: white;
+	margin-right:5px;
+  }
+  #d2{
+	background-color: red;
+	margin-right:5px;
+  }
+  #d3{
+	background-color: white;
+	margin-right:5px;
+
+  }
+ #d4 {
+ 
+	color: white;
+ 
+}
+ 
+  #d6{
+	width:400px;/*szélesség*/
+	height:500px;/*magasság*/
+	float:left;/*balra úsztatás*/
+	/*Legyen a belső margó mindenütt 5px (paddin) a szöveg távolságát jelenti a széltől*/
+	padding:5px;
+	margin-right:5px;
+	margin-top:10px;
+
+  }
+
+
+
+
+
+
+
+
+
